@@ -3,6 +3,14 @@ a {
   text-decoration:none ;
 }
 a {
-  color: gold;
+  color: plum;
   font-size: 32px;
 }
+a {background:aqua ;}
+h1 {background: pink;}
+div {
+  background: darkcyan;
+
+}
+span {color: darkcyan;}
+body{background:#a9a9a9 ;}

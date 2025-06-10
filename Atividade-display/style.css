@@ -1,0 +1,19 @@
+body {font-family: Arial, Helvetica, sans-serif;
+margin: 50px;}
+h1{text-align: center;}
+.a {background: #111;
+color: #fff;
+border-radius: 5px ;
+padding: 40px;
+margin: 20px;
+}
+h2 {
+  margin: 0%;
+}
+span {color:goldenrod}
+p {color: #b2b2b2}
+a {background:goldenrod;
+color: #332200;
+padding: 10px;
+text-decoration: none;
+border-radius: 5px;}
